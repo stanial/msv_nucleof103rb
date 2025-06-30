@@ -1,0 +1,5 @@
+../Core/Src/gnss.c:10:6:GNSS_Init	1
+../Core/Src/gnss.c:33:6:GNSS_PowerDown	1
+../Core/Src/gnss.c:39:6:getPos	2
+../Core/Src/gnss.c:67:7:getCharPos	4
+../Core/Src/gnss.c:160:9:getPosition	4

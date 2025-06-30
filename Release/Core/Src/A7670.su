@@ -1,0 +1,6 @@
+../Core/Src/A7670.c:10:6:A7670E_sendAT	176	static
+../Core/Src/A7670.c:26:6:A7670E_sendSMS	136	static
+../Core/Src/A7670.c:68:6:A7670E_NETService_Init	8	static
+../Core/Src/A7670.c:96:6:A7670E_NETService_Term	8	static
+../Core/Src/A7670.c:103:16:A7670E_getDateTime	136	static
+../Core/Src/A7670.c:139:6:A7670E_SyncDateTime	8	static

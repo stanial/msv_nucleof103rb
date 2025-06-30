@@ -1,0 +1,9 @@
+../Core/Src/adxl345.c:14:6:adxl_write	24	static
+../Core/Src/adxl345.c:22:6:adxl_read_values	24	static
+../Core/Src/adxl345.c:27:6:adxl_read_address	24	static
+../Core/Src/adxl345.c:32:6:adxl_init	8	static
+../Core/Src/adxl345.c:47:6:adxl_StandBy	0	static
+../Core/Src/adxl345.c:52:6:adxl_int_act_setup	32	static
+../Core/Src/adxl345.c:91:6:adxl_int_clear	24	static
+../Core/Src/adxl345.c:98:8:getRaw	8	static
+../Core/Src/adxl345.c:108:7:getCorrected	24	static
