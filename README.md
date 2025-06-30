@@ -3,6 +3,7 @@
 This project is submitted as part of my thesis work.
 
 Tested on the STM32-F103RB. This project should be compatible across the STM32-F1 family.
+
 IDE: STM32CubeIDE 1.13.2
 
 ## Hardware Setup
